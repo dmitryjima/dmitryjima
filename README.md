@@ -6,7 +6,9 @@ badges
 - Translator
 - Explorer
 
-## 
+## Currently aimed at:
+- Lorem
+- Ipsum
 
 ### Connect with me
 
