@@ -1,5 +1,6 @@
 ### Hey there, my name's Dmitry!
 
+<img style="float: right;" alt="zdcreatech logo" width="30vw" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />
 
 ## I am a
 - :rocket: Developer
@@ -40,7 +41,7 @@
 
 <br/>
 
-#### Human Languages
+#### Foreign Languages
 
 
 <br/>
