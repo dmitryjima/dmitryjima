@@ -2,15 +2,18 @@
 badges
 
 ## I am a
-- Developer
-- Translator
-- Explorer
+- :rocket: Developer
+- :globe_with_meridians: Translator
+- :telescope: Explorer
+- :surfer: Boards & Sports Enthusiast
 
 ## Currently aimed at:
 - Lorem
 - Ipsum
 
-### Connect with me
+
+
+### Contact me
 
 ### Languages & Tools
 
