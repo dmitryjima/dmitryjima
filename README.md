@@ -14,10 +14,9 @@
 - Learning new langugages and frameworks :fire:
 - Teaching and sharing knowledge :bulb:
 - Working on design skills :art:
-<br/>
 
 ### :wave: Contact me
-[<img align="left" alt="dmitryjima | Website" width="32px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://zdcreatech.com/)
+[<img align="center" alt="dmitryjima | Website" width="32px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://zdcreatech.com/)
 [<img align="left" alt="dmitryjima | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DmitryJima)
 [<img align="left" alt="dmitryjima | Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/dmitry_jima)
 
@@ -32,6 +31,7 @@
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
