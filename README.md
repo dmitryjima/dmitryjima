@@ -23,7 +23,7 @@
 [<img align="left" alt="dmitryjima | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DmitryJima)
 [<img align="left" alt="dmitryjima | Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/dmitry_jima)
 
-<br/>
+<br />
 
 ### :wrench: Toolbox
 
@@ -41,7 +41,8 @@
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br/>
+<br />
+<br />
 
 ### :shipit: Languages
 
@@ -50,6 +51,9 @@
 * Mandarin
 * French
 * Azeri
+
+<br />
+<br />
 
 ___
 
