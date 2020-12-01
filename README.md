@@ -1,6 +1,7 @@
-### Hey there, my name's Dmitry!
+<img align="right" alt="zdcreatech logo" width="150px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />
+<br/>
 
-<img style="float: right;" alt="zdcreatech logo" width="100px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />
+### Hey there, my name's Dmitry!
 
 ## I am a
 - :rocket: Developer
