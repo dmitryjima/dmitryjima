@@ -1,4 +1,4 @@
-<img align="right" alt="zdcreatech logo" width="150px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />
+[<img align="right" alt="zdcreatech logo" width="150px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://zdcreatech.com/)
 <br/>
 
 ### Hey there, my name's Dmitry!
@@ -21,6 +21,7 @@
 ### :wave: Contact me
 [<img align="left" alt="dmitryjima | Website" width="26px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://zdcreatech.com/)
 [<img align="left" alt="dmitryjima | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DmitryJima)
+[<img align="left" alt="dmitryjima | Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/dmitry_jima)
 
 <br/>
 
