@@ -1,2 +1,1 @@
-## Dmitry, software developer
 
