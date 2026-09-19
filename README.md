@@ -56,9 +56,7 @@
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />
 
-
-<br />
-<br />
+<br/>
 
 ### :globe_with_meridians: Human Languages
 
