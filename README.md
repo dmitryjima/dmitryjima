@@ -10,16 +10,16 @@
 - :globe_with_meridians: Languages Geek
 - :surfer: Boards & Sports Enthusiast
 
-### :wave: Contact me
+## :wave: Contact me
 
 [<img align="left" alt="Dmitry Zhukov | Website" width="32px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://www.zdcreatech.com/)
 [<img align="left" alt="Dmitry Zhukov | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="LinkedIn" />](https://www.reddit.com/user/dmitry_jima)
 
 <br />
 
-### :wrench: Toolbox
+## :wrench: Toolbox
 
-#### Languages & Frameworks
+### Languages & Frameworks
 
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -39,8 +39,7 @@
 
 <br/>
 
-#### Data & Storage
-
+### Data & Storage
 
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -49,7 +48,7 @@
 
 <br/>
 
-#### Infrastructure
+### Infrastructure
 
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
@@ -73,7 +72,7 @@
 
 ___
 
-### :memo: Latest Blog Posts
+## :memo: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Let&#39;s Build Animated Pagination with React!](https://dev.to/dmitryjima/let-s-build-animated-pagination-with-react-ac9)
 - [No-headache Asynchronous JavaScript for Beginners](https://dev.to/dmitryjima/no-headache-asynchronous-javascript-for-beginners-3d01)
