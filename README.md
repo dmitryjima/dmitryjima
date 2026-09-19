@@ -72,6 +72,9 @@ ___
 
 ## :memo: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Build Animated Pagination with React!](https://dev.to/dmitryjima/let-s-build-animated-pagination-with-react-ac9)
-- [No-headache Asynchronous JavaScript for Beginners](https://dev.to/dmitryjima/no-headache-asynchronous-javascript-for-beginners-3d01)
+- [How to enter the world of freelancing](https://www.zdcreatech.com/en/blog/tech-and-beyond/hola-mundo-2024)
+- [Animated Pagination with React](https://www.zdcreatech.com/en/blog/onclick-tutorials/animated-pagination-react)
+- [Self-drawing SVG logo with CSS](https://www.zdcreatech.com/en/blog/onclick-tutorials/self-drawing-svg-logo-css)
+- [Asynchronous JavaScript](https://www.zdcreatech.com/en/blog/onclick-tutorials/async-js)
+- [Programming and foreign languages](https://www.zdcreatech.com/en/blog/tech-and-beyond/programming-and-foreign-languages)
 <!-- BLOG-POST-LIST:END -->
