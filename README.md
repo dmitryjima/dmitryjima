@@ -72,9 +72,9 @@ ___
 
 ## :memo: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Timeline portoflio map with React and D3.js](https://www.zdcreatech.com/en/blog/onclick-tutorials/timeline-based-portfolio-react-d3js)
 - [How to enter the world of freelancing](https://www.zdcreatech.com/en/blog/tech-and-beyond/hola-mundo-2024)
 - [Animated Pagination with React](https://www.zdcreatech.com/en/blog/onclick-tutorials/animated-pagination-react)
 - [Self-drawing SVG logo with CSS](https://www.zdcreatech.com/en/blog/onclick-tutorials/self-drawing-svg-logo-css)
 - [Asynchronous JavaScript](https://www.zdcreatech.com/en/blog/onclick-tutorials/async-js)
-- [Programming and foreign languages](https://www.zdcreatech.com/en/blog/tech-and-beyond/programming-and-foreign-languages)
 <!-- BLOG-POST-LIST:END -->
