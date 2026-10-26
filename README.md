@@ -13,7 +13,7 @@
 ## :wave: Contact me
 
 [<img align="left" alt="Dmitry Zhukov | Website" width="32px" src="https://raw.githubusercontent.com/dmitryjima/dmitryjima/master/img/logo-.png" />](https://www.zdcreatech.com/)
-[<img align="left" alt="Dmitry Zhukov | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="LinkedIn" />](https://www.reddit.com/user/dmitry_jima)
+[<img align="left" alt="Dmitry Zhukov | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="LinkedIn" />](https://www.linkedin.com/in/dmitryjima/)
 
 <br />
 
